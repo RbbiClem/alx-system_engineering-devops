@@ -1,2 +1,2 @@
 #!/bin/bash
-telnettowel.blinkenlights.nl
+/dev/tcp/towel.blinkenlights.nl/23
